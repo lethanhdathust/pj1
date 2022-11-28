@@ -21,5 +21,5 @@ void main() {
     }
   }
   stdout.write(count);
-  var a = 1;
+  print('2');
 }
